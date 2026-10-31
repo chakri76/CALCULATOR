@@ -1,0 +1,101 @@
+# 🎓 Student Grade Calculator (Java)
+
+## 📌 Project Description
+The **Student Grade Calculator** is a simple Java console-based application that calculates a student's total marks, average, and grade based on marks obtained in three subjects.
+
+The program takes student details as input and displays the student's academic performance.
+
+## 🚀 Features
+- Enter student name.
+- Enter student roll number.
+- Enter marks for three subjects.
+- Calculate total marks.
+- Calculate average marks.
+- Display grade based on average.
+- Check pass or fail status.
+
+## 🛠️ Technologies Used
+- **Programming Language:** Java
+- **Concepts Used:**
+  - Classes and Objects
+  - Methods
+  - Conditional Statements
+  - Scanner Class
+  - Arithmetic Operations
+
+## 📂 Project Structure
+
+```text
+StudentGradeCalculator/
+│
+├── StudentGrade.java
+└── README.md
+```
+
+## ▶️ How to Run the Project
+
+**Step 1:** Clone the repository.
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+**Step 2:** Open the project folder.
+
+**Step 3:** Compile the Java program.
+
+```bash
+javac StudentGrade.java
+```
+
+**Step 4:** Run the program.
+
+```bash
+java StudentGrade
+```
+
+## 📊 Grade Calculation
+
+| Average Marks | Grade |
+|---|---|
+| 90 - 100 | A+ |
+| 80 - 89 | A |
+| 70 - 79 | B |
+| 60 - 69 | C |
+| 50 - 59 | D |
+| Below 50 | Fail |
+
+**Note:** If a student scores below 35 in any subject, the result will be Fail.
+
+## 💻 Sample Output
+
+```text
+Enter Student Name: Rahul
+Enter Roll Number: 101
+Enter Marks in Subject 1: 90
+Enter Marks in Subject 2: 85
+Enter Marks in Subject 3: 95
+
+--- STUDENT DETAILS ---
+Name: Rahul
+Roll Number: 101
+Total Marks: 270
+Average: 90.0
+Grade: A+
+```
+
+## 🎯 Learning Outcomes
+Through this project, I learned how to:
+- Create classes and objects in Java.
+- Accept user input using Scanner.
+- Perform mathematical calculations.
+- Use if-else statements.
+- Develop a simple real-world Java application.
+
+## 👨‍💻 Author
+** KANDYANA CHAKRADHAR**
+
+## ⭐ Conclusion
+This project helped me improve my Java programming skills and understand the practical implementation of object-oriented programming concepts.
+
+If you like this project, don't forget to give it a ⭐!
